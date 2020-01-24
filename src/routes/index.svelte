@@ -10,8 +10,6 @@
 
 <script>
   export let posts;
-  console.log("Also, we are hiring @ Socialbakers. This is personal side project and do not necessarily represent company opinion.");
-  
 </script>
 
 <style>

@@ -52,7 +52,7 @@
 </style>
 
 <nav>
-<h1>LINKEDPOT</h1>
+<h1>REDFLAGLINK</h1>
 	<ul>
 		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>home</a></li>
 		<li><a class='{segment === "about" ? "selected" : ""}' href='about'>about</a></li>
